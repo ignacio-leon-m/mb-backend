@@ -19,6 +19,7 @@ public class MbBackApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		/*
 		Bicicleta bicicleta1 = new Bicicleta();
 		bicicleta1.setMarca("Trek");
 		bicicleta1.setModelo("Marlin 5");
@@ -38,6 +39,8 @@ public class MbBackApplication implements CommandLineRunner {
 		bicicleta2.setEstado("Disponible");
 		bicicleta2.setPrecioArr("15000");
 		bicicletaRepository.save(bicicleta2);
+
+		 */
 	}
 }
 
